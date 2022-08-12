@@ -1,3 +1,28 @@
+# TODO
+
+Server API endpoints
+https://www.mongodb.com/languages/mern-stack-tutorial
+
+# Resource:
+
+Atlas/Mongo:
+https://cloud.mongodb.com/v2/62f57c1c7305bd404d2ef15f#clusters
+
+Model:
+http://dougtesting.net/winwheel/examples/wheel_of_fortune
+
+Model Source:
+https://github.com/zarocknz/javascript-winwheel/blob/master/examples/wheel_of_fortune/index.html
+
+Codepen:
+https://codepen.io/sumeshkp18/pen/VGBPYg
+
+npm:
+https://www.npmjs.com/package/lottery-wheel
+https://fralonra.github.io/lottery-wheel/
+
+***
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
